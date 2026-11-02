@@ -1,0 +1,185 @@
+{
+  "title": "Báo cáo",
+  "shareReview": "Chia sẻ tổng kết năm {year}",
+  "shareAll": "Chia sẻ tổng kết toàn thời gian",
+  "pick": {
+    "label": "Chọn năm",
+    "all": "Tất cả",
+    "year": "Năm {year}",
+    "prev": "Trước",
+    "next": "Sau"
+  },
+  "perMonth": "{amount}/tháng",
+  "per": {
+    "day": "ngày",
+    "week": "tuần",
+    "month": "tháng",
+    "year": "năm",
+    "lifetime": "một lần",
+    "quarter": "quý",
+    "halfYear": "6 tháng",
+    "twoYears": "2 năm",
+    "n": {
+      "day": "{count} ngày",
+      "week": "{count} tuần",
+      "month": "{count} tháng",
+      "year": "{count} năm"
+    }
+  },
+  "axis": {
+    "year": "{year}"
+  },
+  "hero": {
+    "label": "Chi tiêu đăng ký cả năm",
+    "tip": "Tháng {month}\nLũy kế {total}",
+    "tipNow": "Tháng {month}, Chờ trừ {pending}\nLũy kế {total}",
+    "paid": "Đã trả",
+    "avg": "Trung bình tháng",
+    "peak": "Tháng cao nhất",
+    "peakAt": "Cao nhất {when}"
+  },
+  "all": {
+    "label": "Tổng chi tiêu đăng ký",
+    "basis": "Từ khoản trừ đầu tiên đến hôm nay: tiền mặt ròng phần của tôi, gồm hoàn tiền và chuyển nhượng, không gồm mua hộ.",
+    "since": "Từ {date}",
+    "last12": "12 tháng qua",
+    "avg": "Trung bình năm",
+    "peak": "Năm cao nhất",
+    "subs": "Số đăng ký",
+    "detail": "Chi tiết lũy kế"
+  },
+  "tenure": {
+    "title": "Gói đăng ký kéo dài bao lâu",
+    "basis": "Số ngày thực sự đăng ký, không tính thời gian gián đoạn và trả hộ.\nDừng ngay: dừng trong vòng 31 ngày.\nĐang dùng: số gói vào ngày cuối mỗi tháng.",
+    "active": "Đang dùng, trung bình",
+    "stopped": "Đã dừng, trung bình",
+    "quick": "Dừng ngay",
+    "peak": "Nhiều nhất cùng lúc",
+    "longest": "Dùng lâu nhất",
+    "count": "Gói đang dùng"
+  },
+  "wf": {
+    "vsFrom": "so với {amount} cuối tháng trước",
+    "flat": "Không đổi",
+    "title": "Biến động {month}",
+    "prev": "Tháng trước",
+    "next": "Tháng sau",
+    "from": "Tháng trước",
+    "fx": "Tỷ giá",
+    "added": "Mới",
+    "expansion": "Tăng giá",
+    "contraction": "Giảm giá",
+    "churned": "Đã dừng",
+    "now": "Hiện tại",
+    "monthEnd": "Cuối tháng",
+    "empty": "Tháng này không có gói đăng ký mới, bị hủy hay đổi giá.",
+    "emptyFx": "Tháng này không có gói đăng ký mới, bị hủy hay đổi giá — toàn bộ biến động đến từ tỷ giá ({amount})."
+  },
+  "checkup": {
+    "title": "Kiểm tra",
+    "warn": {
+      "other": "{count} mục cần chú ý"
+    },
+    "fix": "Sửa",
+    "less": "Thu gọn",
+    "more": "Hiện thêm {count}"
+  },
+  "cash": {
+    "title": "Tiền mặt và chi phí thực",
+    "legendCash": "Đã trừ trong tháng",
+    "legendAccrual": "Chi phí phân bổ theo tháng",
+    "forecast": "\nDự báo",
+    "tip": "Đã trừ {cash}\nChi phí {cost}",
+    "open": "\nMở tháng này trong lịch",
+    "openYear": "\nMở năm này trong lịch",
+    "prepaidItem": "{name}\n{amount}\nđến {until}",
+    "prepaid": "Giá trị trả trước",
+    "prepaidSub": "{count} đã trả, chưa dùng hết",
+    "next90": "Đến hạn trong 90 ngày tới",
+    "fullPaidHint": "Toàn bộ số tiền đã trả, gồm khoản ứng trước cho thành viên"
+  },
+  "comp": {
+    "title": "Tiền đi đâu",
+    "back": "Quay lại",
+    "cat": "Danh mục",
+    "pay": "Thanh toán",
+    "ccy": "Tiền tệ",
+    "cycle": "Chu kỳ",
+    "unassigned": "Chưa gán",
+    "yearly": "Hằng năm",
+    "quarterly": "Hằng quý / nửa năm",
+    "monthly": "Hằng tháng",
+    "groupTip": {
+      "other": "{name}\n{count} mục\n{amount}/tháng"
+    },
+    "groupTipAll": {
+      "other": "{name}\n{count} mục\n{amount}"
+    },
+    "basisYear": "Từ 1/1 đến 31/12 của năm đã chọn: phần chi tiêu ròng của tôi, gồm hoàn tiền và chuyển nhượng, không gồm trả hộ; sau hôm nay là dự kiến.\nPhương thức thanh toán và tiền tệ theo từng lần trừ tiền.",
+    "basisAll": "Từ lần trừ tiền đầu tiên đến hôm nay: phần chi tiêu ròng của tôi, gồm hoàn tiền và chuyển nhượng, không gồm trả hộ.\nPhương thức thanh toán và tiền tệ theo từng lần trừ tiền."
+  },
+  "topup": {
+    "title": "Kế hoạch nạp tiền",
+    "range3": "3 tháng",
+    "range6": "6 tháng",
+    "range12": "1 năm",
+    "span3": "3 tháng tới",
+    "span6": "6 tháng tới",
+    "span12": "Năm tới",
+    "empty": "Chưa có tài khoản nào có số dư.",
+    "emptyCta": "Thêm số dư App Store hoặc nhà mạng trong Ví",
+    "summary": "Số dư {balance}\nkhoảng {monthly}/tháng",
+    "why": "{span}: cần trả {due}, đang có {balance}, thiếu {need}",
+    "urgent": "; gấp nhất: nạp ít nhất {min} trước {date}",
+    "cards": "Thẻ quà tặng gợi ý",
+    "anyAmount": "Nạp số tiền bất kỳ — không cần khớp mệnh giá thẻ",
+    "enough3": "Số dư đủ cho 3 tháng tới",
+    "enough6": "Số dư đủ cho 6 tháng tới",
+    "enough12": "Số dư đủ cho năm tới",
+    "by": "Trước {date}"
+  },
+  "ev": {
+    "start": "Bắt đầu",
+    "end": "Đã hủy",
+    "price": "Đổi giá",
+    "introEnd": "Hết ưu đãi mở đầu",
+    "buy": "Mua đứt",
+    "pause": "Tạm dừng",
+    "switch": "Đổi khu vực / gói",
+    "resume": "Tiếp tục"
+  },
+  "log": {
+    "title": "Nhật ký thay đổi",
+    "decisions": {
+      "other": "{count} quyết định"
+    },
+    "more": "Mục cũ hơn"
+  },
+  "stops": {
+    "title": "Hủy và ngừng dịch vụ",
+    "loss": "Tổn thất chưa hoàn tiền",
+    "basis": "Đã dừng trong năm đã chọn\nPhần của tôi; tổn thất chưa hoàn tiền theo tỷ giá ngày dừng.",
+    "basisAll": "Tất cả đăng ký đã dừng\nPhần của tôi; tổn thất chưa hoàn tiền theo tỷ giá ngày dừng.",
+    "cancel": "Chủ động hủy sớm"
+  },
+  "year": {
+    "title": "Chi tiết năm",
+    "basis": "Chi tiêu ròng theo phần của tôi, gồm hoàn tiền và chuyển nhượng; sau hôm nay là dự kiến theo các gói hiện tại. Năm nay so từ 1/1 đến hôm nay với cùng kỳ năm ngoái; các năm khác so cả năm.",
+    "vsLast": "so với cùng kỳ năm ngoái",
+    "vsPrev": "so với năm trước",
+    "count": "{count} mục",
+    "added": "Mới",
+    "stopped": "Đã dừng",
+    "up": "Nhiều hơn",
+    "down": "Ít hơn",
+    "carpoolGain": "Gói chia sẻ: lãi",
+    "carpoolLoss": "Gói chia sẻ: lỗ",
+    "carpoolEven": "Gói chia sẻ: hòa vốn",
+    "carpoolNet": "Gói chia sẻ: lãi/lỗ",
+    "proxyGain": "Trả hộ: lãi",
+    "proxyLoss": "Trả hộ: lỗ",
+    "proxyEven": "Trả hộ: hòa vốn",
+    "proxyNet": "Trả hộ: lãi/lỗ",
+    "empty": "Bằng cùng kỳ năm ngoái."
+  }
+}
